@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled 
+73ff098c0e31555ef8a8f4d9de7f6310ca5ea0d2 refs/remotes/origin/Telesuperior-patch-1
+97a62697a82551be5290b216fb92e6b712f4681e refs/remotes/origin/Telesuperior-patch-1-1
+1fc74754f0954587199bf502c582b26fb2b87a8e refs/remotes/origin/master
+ffbe7a7d73fa29fdd576493db9ab804c0136fbba refs/remotes/origin/test-branch
