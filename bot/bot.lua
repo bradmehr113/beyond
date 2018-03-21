@@ -81,11 +81,11 @@ function create_config( )
 		"report",
 		"write"
 	},
-    sudo_users = {314397908},
+    sudo_users = {349448573},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[@Jenisbot
+    info_text = [[@sin_mem
 ]],
   }
 	serialize_to_file(config, './data/config.lua')
