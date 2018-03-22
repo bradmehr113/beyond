@@ -30,8 +30,8 @@
 <h6 dir="rtl"></h6>
 <pre>
 <span>cd $HOME</span>
-<span>git clone https://github.com/JenisTeaM/jenisbot.git</span>
-<span>cd jenis</span>
+<span>git clone https://github.com/phoenixs.git</span>
+<span>cd phoenixs</span>
 <span>chmod +x jenis.sh</span>
 <span>./jenis.sh install</span>
 <span>./jenis.sh</span>
